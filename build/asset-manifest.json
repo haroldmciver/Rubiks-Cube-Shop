@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6594e8e1.css",
+    "main.js": "/static/js/main.69e95d32.js",
+    "static/js/787.3a17b21f.chunk.js": "/static/js/787.3a17b21f.chunk.js",
+    "static/media/wallpaper.jpg": "/static/media/wallpaper.0581b991af4b0bfae238.jpg",
+    "static/media/about.jpg": "/static/media/about.49606b0d04a2afb0e769.jpg",
+    "static/media/support.jpg": "/static/media/support.ff1a2aab8ed180284f44.jpg",
+    "static/media/crystal.jpg": "/static/media/crystal.5ccd6be3e6321cb6f608.jpg",
+    "static/media/3x3.jpg": "/static/media/3x3.822ceeb3922bbb77a5ce.jpg",
+    "static/media/5x5.jpg": "/static/media/5x5.1bce8a5b20082d6d6581.jpg",
+    "static/media/4x4.jpg": "/static/media/4x4.a546fd53e53123f05196.jpg",
+    "static/media/tower.jpg": "/static/media/tower.672ce0c77d4be69b86f8.jpg",
+    "static/media/Edge.jpg": "/static/media/Edge.0a891d25493f6944deef.jpg",
+    "static/media/2x2.jpg": "/static/media/2x2.242aa62678921551c283.jpg",
+    "static/media/Twist.jpg": "/static/media/Twist.752e9ed5cf852ccdfe98.jpg",
+    "static/media/pyramid.jpg": "/static/media/pyramid.482a47a5f077e23114bb.jpg",
+    "static/media/rubikslogo.png": "/static/media/rubikslogo.87178fafe0256587076e.png",
+    "index.html": "/index.html",
+    "main.6594e8e1.css.map": "/static/css/main.6594e8e1.css.map",
+    "main.69e95d32.js.map": "/static/js/main.69e95d32.js.map",
+    "787.3a17b21f.chunk.js.map": "/static/js/787.3a17b21f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6594e8e1.css",
+    "static/js/main.69e95d32.js"
+  ]
+}
